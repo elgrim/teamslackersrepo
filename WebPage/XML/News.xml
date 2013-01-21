@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<theNews>
+  <news>
+    <title>Testing</title>
+    <contents>Awosome test</contents>
+    <date>Thu, 29 Nov 2012 08:55:38 GMT</date>
+  </news>
+  <news>
+    <title>Testing</title>
+    <contents>Awosome test</contents>
+    <date>Thu, 29 Nov 2012 08:55:27 GMT</date>
+  </news>
+  <news>
+    <title>Uusi uutinen</title>
+    <contents>Uusinta uutta</contents>
+    <date>Wed, 28 Nov 2012 18:31:41 GMT</date>
+  </news>
+  <news>
+    <title>LoliQuest on katkolla</title>
+    <contents>Juuri saamamme tiedon mukaan LoliQuestia ei pystytä jatkamaan koska lanit estävät kyseisen toimenpiteen.</contents>
+    <date>Wed, 28 Nov 2012 11:46:50 GMT</date>
+  </news>
+</theNews>
